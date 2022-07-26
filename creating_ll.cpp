@@ -1,3 +1,6 @@
+// here creating a linked list using array
+
+
 #include<iostream>
 using namespace std;
 
